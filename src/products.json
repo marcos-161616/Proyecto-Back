@@ -1,0 +1,35 @@
+[
+    {
+        "id": "50eed7ae-e447-46c2-a9af-db34221ac046",
+        "title": "PRODUCTO 1",
+        "description": "pelota",
+        "price": "500",
+        "thumbnail": "./assets/pelota.jpg",
+        "code": "ms1",
+        "stock": "20",
+        "status": "false",
+        "category": "prueba"
+    },
+    {
+        "id": "41c4972f-0810-4abd-879c-426ae87d38a8",
+        "title": "PRODUCTO 3",
+        "description": "regla",
+        "price": "530",
+        "thumbnail": "./assets/regla.jpg",
+        "code": "ms2",
+        "stock": "30",
+        "status": "false",
+        "category": "prueba"
+    },
+    {
+        "id": "54d87485-4459-48f8-be0b-7b03233d9221",
+        "title": "PRODUCTO 3",
+        "description": "mate",
+        "price": "500",
+        "thumbnail": "./assets/pelota.jpg",
+        "code": "ms1",
+        "stock": "20",
+        "status": "false",
+        "category": "prueba"
+    }
+]
